@@ -1,3 +1,15 @@
 {
-    "users":[{}]
+  "users": [
+    {
+      "name": "Vishal Das",
+      "email": "vishal@gmail.com",
+      "password": "12346789",
+      "mobile": "7004947677",
+      "age": 24,
+      "address": "india",
+      "gender": "Male",
+      "occupation": "Student",
+      "id": 1
+    }
+  ]
 }
