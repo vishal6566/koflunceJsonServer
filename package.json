@@ -1,0 +1,23 @@
+{
+  "name": "koflunceJsonServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal6566/koflunceJsonServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal6566/koflunceJsonServer/issues"
+  },
+  "homepage": "https://github.com/vishal6566/koflunceJsonServer#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
